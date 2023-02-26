@@ -4997,7 +4997,7 @@ local Section = Tab:AddSection({
 	Name = "Credits"
 })
 
-Tab:AddLabel("Main developer: S409#7733")
+Tab:AddLabel("Main developer: buying selling ebay#6758")
 
 
 
